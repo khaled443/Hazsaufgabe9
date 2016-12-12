@@ -1,4 +1,3 @@
-package hausaufgabe9;
 
 public class KeineBerechtigungException extends Exception{
 
